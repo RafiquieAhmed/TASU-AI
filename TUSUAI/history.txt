@@ -1,0 +1,13 @@
+User: for
+AI: Please provide me with the rest of your request.  "for" is a keyword that requires more context.  For example, are you looking for:
+
+* **A `for` loop in a programming language?**  (e.g., "for i in range(10): print(i)")  Please specify the language.
+* **A reason or purpose?** (e.g., "I need a tool for...")
+* **Something to be used as a preposition?** (e.g., "This is for you.")
+* **Something else entirely?**
+
+Give me more information so I can help you.
+==================================================
+User: a
+AI: a
+==================================================

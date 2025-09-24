@@ -1,0 +1,6 @@
+Weather in Hyderabad:
+Temperature: 29.01°C
+Condition: Overcast Clouds
+Humidity: 63%
+Min Temp: 29.01°C
+Max Temp: 29.01°C

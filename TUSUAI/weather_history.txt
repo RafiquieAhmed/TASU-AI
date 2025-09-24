@@ -1,0 +1,15 @@
+
+ Time: 2025-07-15 22:12:18
+ Command: india ka prime minister kaun hai
+ Response: ❌ Could not find weather for 'india ka prime minister kaun hai'.
+==================================================
+
+ Time: 2025-07-15 22:12:52
+ Command: india ka prime minister kaun hai
+ Response: ❌ Could not find weather for 'india ka prime minister kaun hai'.
+==================================================
+
+ Time: 2025-07-15 22:51:25
+ Command: temperature in hyderabad
+ Response: ❌ Could not find weather for 'in hyderabad'.
+==================================================
